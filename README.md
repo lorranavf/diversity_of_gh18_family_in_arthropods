@@ -9,7 +9,7 @@ Tables:
 - Chitinases in D. melanogaster (Supplementary Table 2).
 - Chitinases in T. castaneum (Supplementary Table 3).
 - Genome accessions obtained from NCBI Datasets Database (Supplementary Table 4).
-- Sequences containing the GH18 domain in arthropods (Supplementary Data 1).
+- Sequences containing the GH18 domain in arthropods (Supplementary Dataset 1).
 
 Figures:
 - Orthogroup statistics (Supplementary Figure 5).
