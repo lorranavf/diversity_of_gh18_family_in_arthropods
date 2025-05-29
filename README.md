@@ -2,7 +2,7 @@
 
 This repository contains:
 
-Supplementary Materials for Diversity of chitinases GH18 family in arthropods
+Supplementary Materials for Diversity of Glycosyl Hydrolase Family 18 in Arthropods
 
 Tables:
 - Domains associated with GH18 family (Supplementary Table 1).
@@ -23,4 +23,5 @@ Figures:
 - Orthogroup OG0000012 (Supplementary Figure 7).
 - Orthogroup OG0000020 (Supplementary Figure 8).
 - Orthogroup OG0000022 (Supplementary Figure 9).
+- Motif Presence in GH18 Domain by Orthogroups (Figure 10).
  
